@@ -1,3 +1,3 @@
 # CVDS
 
-### Author Ricardo Olarte
+### Author: Ricardo Olarte
